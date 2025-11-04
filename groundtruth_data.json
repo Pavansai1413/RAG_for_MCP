@@ -1,0 +1,18 @@
+[
+  {
+    "inputs": {
+      "question": "What is the Model Context Protocol (MCP)?"
+    },
+    "outputs": {
+      "answer": "The Model Context Protocol (MCP) is an open standard that enables seamless integration between large language model applications and external tools, data sources, and services."
+    }
+  },
+  {
+    "inputs": {
+      "question": "What are the main roles in the MCP architecture?"
+    },
+    "outputs": {
+      "answer": "In MCP, the main roles are: the Host application (where the LLM runs), the MCP Client (within the Host that manages connection to a server), and the MCP Server (that exposes tools/resources to the model)."
+    }
+  }
+]

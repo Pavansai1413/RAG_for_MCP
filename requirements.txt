@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain_community
+langchain_pinecone
+sentence-transformers
+streamlit
+pinecone_text
+beautifulsoup4
+requests
+pinecone
+ragas
